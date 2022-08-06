@@ -1,7 +1,6 @@
 theme: ankitsultana/researcher
 lsi: false
 safe: true
-source: src
 incremental: false
 highlighter: rouge
 gist:
@@ -9,3 +8,24 @@ gist:
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
+
+title: Caryn Tran
+url: "https://caryntran.com"
+baseurl: "/"
+
+markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/"
+#  - name: "Resume"
+#    link: "resume.pdf"
+#  - name: "Contact"
+#    link: "contact"
