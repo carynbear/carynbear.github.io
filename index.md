@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="caryn.jpg">
+<img class="profile-picture" src="caryn.png">
 
 Hi! I am a first year Ph.D. student in Computer Science and Learning Sciences at Northwestern University in Evanston, Illinois. I love to dance and cook!
 
