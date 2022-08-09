@@ -3,10 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [caryn.tran+web@u.northwestern.edu](mailto:caryn.tran+web@u.northwestern.edu)
 
-* Phone: [+91-123123](tel:+91-123123)
-
+<!-- 
 ---
 
 ## Mailing Address
@@ -17,10 +16,10 @@ is_contact: true
 >
 > United Kingdom
 
----
+--- -->
 
-## Social
+<!-- ## Social
 
-1. [Facebook](#)
+1. [Instagram](#)
 2. [Twitter](#)
-3. [Google+](#)
+3. [Google+](#) -->

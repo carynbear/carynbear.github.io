@@ -4,42 +4,21 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="caryn.jpeg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am a first year Ph.D. student in Computer Science and Learning Sciences at Northwestern University in Evanston, Illinois. I love to dance and cook!
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+I am interested in interfaces, programming languages, and learning environments for K-12 CS education. This includes visual programming languages, online programming editors, and collaborative programming. 
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Anant Sahai, Joshua Sanz, Vignesh Subramanian, Caryn Tran, and Kailas Vodrahalli. “Blind Interactive Learning of Modulation Schemes: Multi-Agent Cooperation Without Co-Design”. IEEE Access PP. doi: 10.1109/ACCESS.2020.2984218 (Mar. 2020): 1–1. [Web.](https: //ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050734)
 
-## Typography
+## Experiences (in order of recency)
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. Middle School Teacher at Synapse School
+2. Software Engineer at Adobe and TeachFX
+3. M.S. in EECS at UC Berkeley (AI Concentration)
+4. B.A. in CS at UC Berkeley
