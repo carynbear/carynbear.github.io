@@ -1,4 +1,4 @@
-theme: ankitsultana/researcher
+remote_theme: ankitsultana/researcher@gem
 lsi: false
 safe: true
 incremental: false
