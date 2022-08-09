@@ -4,9 +4,11 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="caryn.jpeg">
+<img class="profile-picture" src="caryn.jpg">
 
 Hi! I am a first year Ph.D. student in Computer Science and Learning Sciences at Northwestern University in Evanston, Illinois. I love to dance and cook!
+
+* Email: [caryn.tran+web@u.northwestern.edu](mailto:caryn.tran+web@u.northwestern.edu)
 
 ## Research Interest
 
