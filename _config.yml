@@ -6,6 +6,7 @@ baseurl: "/"
 
 markdown: kramdown
 ins_logo: "./logo.png"
+favicon: "./logo.png"
 
 tracking_id: #
 
