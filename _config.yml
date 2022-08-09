@@ -1,13 +1,4 @@
 remote_theme: ankitsultana/researcher@gem
-lsi: false
-safe: true
-incremental: false
-highlighter: rouge
-gist:
-  noscript: false
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
 
 title: Caryn Tran
 url: "https://caryntran.com"
@@ -17,10 +8,6 @@ markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
-
-sass:
-    style: compressed
-    sass_dir: _sass
 
 nav:
  - name: "About"
