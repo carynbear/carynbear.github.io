@@ -24,3 +24,11 @@ I am interested in interfaces, programming languages, and learning environments 
 2. Software Engineer at Adobe and TeachFX
 3. M.S. in EECS at UC Berkeley (AI Concentration)
 4. B.A. in CS at UC Berkeley
+
+
+## Teaching Experience
+1. [CS61AS Spring 2016](https://berkeley-cs61as.github.io/) TA/Instructor (Structure and Interpretation of Computer Programs)
+2. [CS188 Fall 2016](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-FA16+FA16/20021a0a32d14a31b087db8d4bb582fd/) TA (Artificial Intelligence)
+3. [CS188 Fall 2017](https://edge.edx.org/courses/course-v1:Berkeley+CS188+2017_FA17/20021a0a32d14a31b087db8d4bb582fd/) TA (Artificial Intelligence)
+4. [CS188 Summer 2019](https://inst.eecs.berkeley.edu/~cs188/su19/staff/) Head TA (Artificial Intelligence)
+5. Synapse School Middle School Computer Science Teacher
