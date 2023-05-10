@@ -2,29 +2,47 @@
 layout: default
 ---
 
-## Evaluation of Programming Environments Study
+## Preferences and Perceptions of Programming Study
 
 ## Interested?
+Two forms need to be filled out!
+Interested participants must fill out [this interest form]().
+(If under 18) Guardians of interested participants must fill out [this permission form]().
 
-If *you* are interested in participating, fill out [this screening form]().
+We will follow up with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu. 
 
-If *your child* may be interested, fill out [this interest form]().
+**For teachers who are interested in having students do this survey as an in-class activity**, please contact me via email (caryn@u.northwestern.edu.) so we can coordinate how to get permission and send out the survey. 
 
-We will follow up with you, your guardian, and/or child with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu
+## Information
 
-## FAQ
+### Activity
+Students will answer a survey about their programming preferences and perceptions. Selected students who are interested will be contacted for an optional follow-up interview about their survey response.
 
-Q: What is this study about?
-A:
+### Student Benefits
+They get to see what research looks like (learning sciences and human-computer interaction research).
+They will be compensated $15-$50 ($15 for the survey, $35/hr for the interview).
+They will reflect on their preferences and perceptions of programming and learn about new tools for learning programming.
 
-Q: What does the study entail?
-A: A 30-min online survey and potentially an optional 1-hr follow-up interview.
+More?! I'm happy to brainstorm any other ideas that you might think will benefit students!
 
-Q: Who is eligible?
-A: 
+### Consent
+Students need to get parent consent for participating in the study. Participation is completely voluntary.
 
-Q: What
-A:
+### Teacher’s Responsibility
+Teachers need to give students two links that will be provided for them and that’s it! One link is a link to [permission form online]() and the other is a link to [the interest form](). 
 
-Q:
-A: 
+_This is a great activity for students to complete at the end of the year. Results from the study can help you inform your curriculum._  
+
+### Eligibility
+Students should 
+- be between the ages of 13 and 18, 
+- have no more than 1 year of formal high school-level Computer Science or Programming coursework. If you are currently enrolled in a Computer Science/Programming class, that's okay! And if you've taken any courses prior to high school or outside of school, that's okay too!
+- They should have experience using an _educational_ programming environment such as (but not limited to) Scratch, Snap, MakeCode, CodeHS, Alice, CodeCombat, Code.org, AppInventor, and so on. 
+
+### Timing
+For the 30 minute survey, students can participate at any time (so long as guardian permission is given).
+For the 1 hour follow-up interview, students who are interested may be contacted by email to select a time that works for them on a Calendly link.
+
+### Location
+The survey is completed in Qualtrics wherever the student has internet access. 
+The interview is done on Zoom in a password-protected meeting. 
