@@ -24,4 +24,4 @@ nav:
  - name: "CV"
    link: "CV.pdf"
  - name: "Programming Study"
-   link: "programmingstudy"
+   link: "/programmingstudy"
