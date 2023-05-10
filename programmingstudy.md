@@ -4,7 +4,6 @@ layout: default
 
 ## Preferences and Perceptions of Programming Study
 <img class="picture" src="recruitment_header.png">
-</br>
 
 ---
 
@@ -13,9 +12,8 @@ layout: default
 **Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
 
 ## Interested?
-Two forms need to be filled out! \
-Interested participants must fill out [this interest form]().
-(If under 18) Guardians must fill out [this permission form]().
+Interested participants should out **this interest [form]().**
+(If under 18) Guardians must fill out **this permission [form]().**
 
 We will follow up with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu. 
 
@@ -39,7 +37,7 @@ More?! I'm happy to brainstorm any other ideas that you might think will benefit
 Students need to get parent consent for participating in the study. Participation is completely voluntary.
 
 ### Teacher’s Responsibility
-Teachers need to give students two links that will be provided for them and that’s it! One link is a link to [permission form online]() and the other is a link to [the interest form](). \\
+Teachers need to give students two links that will be provided for them and that’s it! One link is a link to an online [permission form] () and the other is a link to [the interest form](). \\
 
 _This is a great activity for students to complete at the end of the year. Results from the study can help you inform your curriculum._  
 
