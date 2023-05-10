@@ -56,6 +56,8 @@ Students should:
 - The interview is done on Zoom in a password-protected meeting. 
 
 ---
+
 <img class="picture" src="recruitment.png">
 
-\\
+---
+
