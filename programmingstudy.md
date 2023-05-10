@@ -1,3 +1,7 @@
+---
+layout: default
+is_contact: false
+---
 ## Evaluation of Programming Environments Study
 
 ## Interested?
