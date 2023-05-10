@@ -5,7 +5,9 @@ layout: default
 ## Preferences and Perceptions of Programming Study
 <img class="picture" src="recruitment_header.png">
 </br>
+
 ---
+
 ## Contacts
 **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu \\
 **Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
@@ -18,7 +20,9 @@ Interested participants must fill out [this interest form]().
 We will follow up with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu. 
 
 **For teachers who are interested in having students do this survey as an in-class activity**, please contact me via email so we can coordinate how to get permission and send out the survey. 
+
 ---
+
 ## Information
 
 ### Activity
