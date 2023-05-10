@@ -1,4 +1,6 @@
 @import "vars";
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
 
 /*
  * Basic
@@ -11,7 +13,7 @@ html {
 }
 body {
     margin: 0;
-    font-family: "tisa";
+    font-family: "Open Sans", sans-serif;
     height: 100%;
 }
 a {
