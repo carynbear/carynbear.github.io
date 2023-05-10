@@ -3,10 +3,12 @@ layout: default
 ---
 
 ## Preferences and Perceptions of Programming Study
+<img class="picture" src="recruitment_header.png">
+\\
 ---
 ## Contacts
-Principal Investigator: Eleanor O'Rourke, eorourke@northwestern.edu 
-Graduate Researcher: Caryn Tran, caryn@u.northwestern.edu
+**Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu \\
+**Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
 
 ## Interested?
 Two forms need to be filled out! \
@@ -52,10 +54,6 @@ Students should:
 - The interview is done on Zoom in a password-protected meeting. 
 
 ---
-## 
 <img class="picture" src="recruitment.png">
 
-## Sponsored By
-<img class="profile-picture" src="nu-sesp-logo.svg">
-<img class="profile-picture" src="mccormick-logo.svg">
-<img class="profile-picture" src="delta-logo.png">
+\\
