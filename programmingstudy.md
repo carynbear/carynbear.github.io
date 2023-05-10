@@ -4,6 +4,10 @@ layout: default
 
 ## Preferences and Perceptions of Programming Study
 
+## Contacts
+Principal Investigator: Eleanor O'Rourke, eorourke@northwestern.edu 
+Graduate Researcher: Caryn Tran, caryn@u.northwestern.edu
+
 ## Interested?
 Two forms need to be filled out!
 Interested participants must fill out [this interest form]().
@@ -11,7 +15,7 @@ Interested participants must fill out [this interest form]().
 
 We will follow up with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu. 
 
-**For teachers who are interested in having students do this survey as an in-class activity**, please contact me via email (caryn@u.northwestern.edu.) so we can coordinate how to get permission and send out the survey. 
+**For teachers who are interested in having students do this survey as an in-class activity**, please contact me via email so we can coordinate how to get permission and send out the survey. 
 
 ## Information
 
@@ -46,3 +50,11 @@ For the 1 hour follow-up interview, students who are interested may be contacted
 ### Location
 The survey is completed in Qualtrics wherever the student has internet access. 
 The interview is done on Zoom in a password-protected meeting. 
+
+## 
+<img class="picture" src="recruitment.png">
+
+## Sponsored By
+<img class="profile-picture" src="nu-sesp-logo.svg">
+<img class="profile-picture" src="mccormick-logo.svg">
+<img class="profile-picture" src="delta-logo.png">
