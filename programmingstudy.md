@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="picture" width="400" src="northwestern.png">
+<img class="small-picture" width="400" src="northwestern.png">
 
 ---
 # Preferences and Perceptions of Programming Study
