@@ -6,9 +6,8 @@ layout: default
 
 # Preferences and Perceptions of Programming Study
 
-<div style="background-color: rgb(50, 50, 50);">
 ## Contacts
-- **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu \
+- **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
 - **Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
 
 ## Interested?
@@ -19,7 +18,6 @@ We will follow up with next steps shortly. If you have any questions, please ema
 
 **For teachers who are interested in having students do this survey as an in-class activity**, please contact me via email so we can coordinate how to get permission and send out the survey. 
   
-</div>
 ---
 
 ## Information
