@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="northwestern.png">
 
 # Preferences and Perceptions of Programming Study
-#### Conducted by Northwestern University
+### Conducted by Northwestern University
 
 ## Contacts
 - **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
@@ -20,8 +20,6 @@ We will follow up with next steps shortly. If you have any questions, please ema
 **For teachers who are interested in having students do this survey as an in-class activity**, please send your students the interest and permission forms above and contact me via email so we can coordinate how to send out the survey. 
   
 ---
-
-## Information
 
 ### _**Activity**_
 - Students will answer a survey about their programming preferences and perceptions. 
