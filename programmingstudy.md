@@ -4,15 +4,16 @@ layout: default
 
 ## Preferences and Perceptions of Programming Study
 
+<img class="picture" src="northwestern.png">
 ---
 
 ## Contacts
-**Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu \\
-**Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
+- **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu \
+- **Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
 
 ## Interested?
-Interested participants should out **this interest [form]().**
-(If under 18) Guardians must fill out **this permission [form]().**
+- Interested participants should out **this interest [form]().**
+- (If under 18) Guardians must fill out **this permission [form]().**
 
 We will follow up with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu. 
 
@@ -23,22 +24,22 @@ We will follow up with next steps shortly. If you have any questions, please ema
 ## Information
 
 ### Activity
-Students will answer a survey about their programming preferences and perceptions. Selected students who are interested will be contacted for an optional follow-up interview about their survey response.
+- Students will answer a survey about their programming preferences and perceptions. 
+- Selected students who are interested will be contacted for an optional follow-up interview about their survey response.
 
 ### Student Benefits
 - They get to see what research looks like (learning sciences and human-computer interaction research).
 - They will be compensated $15-$50 ($15 for the survey, $35/hr for the interview).
 - They will reflect on their preferences and perceptions of programming and learn about new tools for learning programming.
-
-More?! I'm happy to brainstorm any other ideas that you might think will benefit students!
+- More?! I'm happy to brainstorm any other ideas that you might think will benefit students!
 
 ### Consent
-Students need to get parent consent for participating in the study. Participation is completely voluntary.
+- Students need to get parent consent for participating in the study. Participation is completely voluntary.
 
 ### Teacher’s Responsibility
-Teachers need to give students two links that will be provided for them and that’s it! One link is a link to an online [permission form] () and the other is a link to [the interest form](). \\
-
-_This is a great activity for students to complete at the end of the year. Results from the study can help you inform your curriculum._  
+Teachers need to give students two links that will be provided for them and that’s it! 
+- One link is a link to an online [permission form] () and the other is a link to [the interest form](). 
+- _This is a great activity for students to complete at the end of the year. Results from the study can help you inform your curriculum._  
 
 ### Eligibility
 Students should:
