@@ -2,11 +2,10 @@
 layout: default
 ---
 
-## Preferences and Perceptions of Programming Study
-
 <img class="picture" width="400" src="northwestern.png">
 
 ---
+# Preferences and Perceptions of Programming Study
 
 ## Contacts
 - **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu \
