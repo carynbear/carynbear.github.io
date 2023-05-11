@@ -2,9 +2,8 @@
 layout: default
 ---
 
-<img class="small-picture" src="northwestern.png">
+<img class="profile-picture" src="northwestern.png">
 
----
 # Preferences and Perceptions of Programming Study
 
 ## Contacts
