@@ -36,7 +36,7 @@ We will follow up with next steps shortly. If you have any questions, please ema
 - Students need to get parent consent for participating in the study. Participation is completely voluntary.
 
 ### _**Teacher’s Responsibility**_
-Teachers need to give students two links that will be provided for them and that’s it! 
+Teachers need to give students two links and that’s it! 
 - One link is a link to an online [permission form]() and the other is a link to [the interest form](). 
 - This is a great activity for students to complete at the end of the year. 
 - Results from the study can help you inform your curriculum in the future.  
@@ -47,7 +47,7 @@ Students should:
 - have no more than 1 year of formal high school-level Computer Science or Programming coursework. 
     - If you are currently enrolled in a Computer Science/Programming class, that's okay! 
     - If you've taken any courses prior to high school or outside of school, that's okay too!
-- They should have experience using an _educational_ programming environment 
+- have experience using an _educational_ programming environment 
     - such as (but not limited to) Scratch, Snap, MakeCode, CodeHS, Alice, CodeCombat, Code.org, AppInventor, and so on. 
 
 ### _**Timing**_
