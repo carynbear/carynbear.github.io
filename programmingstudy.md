@@ -4,7 +4,8 @@ layout: default
 
 <img class="profile-picture" src="northwestern.png">
 
-# Northwestern University: Preferences and Perceptions of Programming Study
+# Preferences and Perceptions of Programming Study
+#### Conducted by Northwestern University
 
 ## Contacts
 - **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
