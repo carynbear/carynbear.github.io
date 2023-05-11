@@ -8,15 +8,15 @@ layout: default
 
 ## Contacts
 - **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
-- **Graduate Researcher:** Caryn Tran, caryn@u.northwestern.edu
+- **Graduate Researcher:** Caryn Tran, [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu)
 
 ## Interested?
-- Interested participants should out **this interest [form]().**
-- (If under 18) Guardians must fill out **this permission [form]().**
+- Interested participants must fill out **[this interest form]().**
+- (If under 18) Guardians must fill out **[this permission form]().**
 
-We will follow up with next steps shortly. If you have any questions, please email caryn@u.northwestern.edu. 
+We will follow up with next steps shortly. If you have any questions, please email [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu). 
 
-**For teachers who are interested in having students do this survey as an in-class activity**, please contact me via email so we can coordinate how to send out the survey. Please send your students the interest and permission forms above beforehand.
+**For teachers who are interested in having students do this survey as an in-class activity**, please send your students the interest and permission forms above and contact me via email so we can coordinate how to send out the survey. 
   
 ---
 
