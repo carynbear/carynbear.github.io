@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="northwestern.png">
 
-# Preferences and Perceptions of Programming Study
+# Northwestern University: Preferences and Perceptions of Programming Study
 
 ## Contacts
 - **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
@@ -45,8 +45,10 @@ Teachers need to give students two links that will be provided for them and that
 Students should:
 - be between the ages of 13 and 18, 
 - have no more than 1 year of formal high school-level Computer Science or Programming coursework. 
-    - If you are currently enrolled in a Computer Science/Programming class, that's okay! And if you've taken any courses prior to high school or outside of school, that's okay too!
-- They should have experience using an _educational_ programming environment such as (but not limited to) Scratch, Snap, MakeCode, CodeHS, Alice, CodeCombat, Code.org, AppInventor, and so on. 
+    - If you are currently enrolled in a Computer Science/Programming class, that's okay! 
+    - If you've taken any courses prior to high school or outside of school, that's okay too!
+- They should have experience using an _educational_ programming environment 
+    - such as (but not limited to) Scratch, Snap, MakeCode, CodeHS, Alice, CodeCombat, Code.org, AppInventor, and so on. 
 
 ### _**Timing**_
 - For the 30 minute survey, students can participate at any time (so long as guardian permission is given).\\
