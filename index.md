@@ -12,7 +12,7 @@ Hi! I am a first year Ph.D. student in Computer Science and Learning Sciences at
 
 ## Research Interest
 
-I am interested in interfaces, programming languages, and learning environments for K-12 CS education. This includes visual programming languages, online programming editors, and collaborative programming. 
+I am interested in interfaces, programming languages, and learning environments for K-12 CS education. This includes visual programming languages, online programming editors, ML-assisted programming, and collaborative programming. I'm also exploring the future of programming and Computer Science education as it evolves due to LLMs, multi-modal ML, and the invention of new computing interfaces.
 
 ## Publications
 
