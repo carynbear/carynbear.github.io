@@ -7,6 +7,10 @@ layout: default
 # Preferences and Perceptions of Programming Study
 ### Conducted by Northwestern University
 
+|  Interested participants must fill out an interest form | (If under 18) Guardians must fill out a permission form |
+|---|---|
+| <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14" class="button">Fill out Interest Form</a> |  <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG" class="button">Fill out Parent Permission Form</a>|
+
 ## Contacts
 - **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
 - **Graduate Researcher:** Caryn Tran, [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu)
@@ -14,10 +18,6 @@ layout: default
 ## Interested?
 - Interested participants must fill out **[this interest form](https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14).**
 - (If under 18) Guardians must fill out **[this permission form](https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG).**
-
-|  Interested participants must fill out an interest form | (If under 18) Guardians must fill out a permission form |
-|---|---|
-| <button name="interest" onclick="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14">Interest Form</button> | <button name="permission" onclick="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG">Permission Form</button> |
 
 We will follow up with next steps shortly. If you have any questions, please email [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu). 
 
