@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: study
 ---
 
 <img class="profile-picture" src="northwestern.png">
