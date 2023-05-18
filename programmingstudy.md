@@ -9,7 +9,7 @@ layout: default
 
 
 
-|  Interested participants must fill out an interest form | (If under 18) Guardians must fill out a permission form |
+| Interested participants: | (If under 18) Guardian: |
 |:---:|:---:|
 | <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14" class="btn btn-primary">Fill out Interest Form</a> |<a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG" class="btn btn-secondary">Fill out Parent Permission Form</a> |
 
