@@ -12,8 +12,12 @@ layout: default
 - **Graduate Researcher:** Caryn Tran, [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu)
 
 ## Interested?
-- Interested participants must fill out **[this interest form]().**
-- (If under 18) Guardians must fill out **[this permission form]().**
+- Interested participants must fill out **[this interest form](https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14).**
+- (If under 18) Guardians must fill out **[this permission form](https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG).**
+
+|  Interested participants must fill out an interest form | (If under 18) Guardians must fill out a permission form |
+|---|---|
+| <button name="interest" onclick="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14">Interest Form</button> | <button name="permission" onclick="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG">Permission Form</button> |
 
 We will follow up with next steps shortly. If you have any questions, please email [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu). 
 
@@ -36,7 +40,7 @@ We will follow up with next steps shortly. If you have any questions, please ema
 
 ### _**Teacher’s Responsibility**_
 Teachers need to give students two links and that’s it! 
-- One link is a link to an online [permission form]() and the other is a link to [the interest form](). 
+- One link is a link to an online [permission form](https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG) and the other is a link to [the interest form](https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14). 
 - This is a great activity for students to complete at the end of the year. 
 - Results from the study can help you inform your curriculum in the future.  
 
