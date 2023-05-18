@@ -30,7 +30,7 @@ hr {
     border-bottom: 1px solid rgba(255, 255, 255, 0.3);
 }
 
-button {
+.button {
   font-size:15px;
   font-family:Arial;
   width:140px;
@@ -48,8 +48,17 @@ button {
   background:linear-gradient(#79bbff, #378de5);
 }
 
-button:hover {
+.button:hover {
   background: linear-gradient(#378de5, #79bbff);
+}
+
+.center {
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
 }
               
 
