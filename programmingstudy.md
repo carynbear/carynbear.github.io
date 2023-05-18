@@ -16,7 +16,7 @@ layout: default
 
 
 ## Contacts
-- **Principal Investigator:** Eleanor O'Rourke, eorourke@northwestern.edu
+- **Principal Investigator:** [Eleanor O'Rourke](http://www.eleanorourke.com/), [eorourke@northwestern.edu](mailto:eorourke@northwestern.edu)
 - **Graduate Researcher:** Caryn Tran, [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu)
 
 ## Interested?
