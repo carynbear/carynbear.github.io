@@ -6,6 +6,7 @@ baseurl: "/"
 
 markdown: kramdown
 ins_logo: "./logo.png"
+nu_logo: "./northwestern.png"
 favicon_location: "./logo.png"
 
 tracking_id: #
