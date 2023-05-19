@@ -20,7 +20,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
+ - name: "About Caryn"
    link: "/"
  - name: "CV"
    link: "CV.pdf"
