@@ -15,7 +15,7 @@ layout: study
 
 ### Interested?
 
-| Interested participants: | (If under 18) Guardian: |
+| Interested participant: | (If under 18) Guardian of participant: |
 |:---:|:---:|
 | <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14" class="btn btn-primary">Fill out Interest Form</a> |<a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG" class="btn btn-secondary">Fill out Parent Permission Form</a> |
 
