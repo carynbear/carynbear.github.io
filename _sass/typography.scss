@@ -1,11 +1,11 @@
 @import "vars";
 
 .content {
-    .h1,  h1 {
+    .h1,  h1, .h2, h2 {
         margin-top: 1.5em;
     }
-    .h2, .h3, .h4, .h5, .h6, h2, h3, h4, h5, h6 {
-        margin-top: .5em;
+    .h3, .h4, .h5, .h6, h2, h3, h4, h5, h6 {
+        margin-top: .8em;
     }
     p {
       padding-left: 20px;
