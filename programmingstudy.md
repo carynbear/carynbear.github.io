@@ -10,8 +10,8 @@ layout: study
 ---
 
 ### Contacts
-- **Principal Investigator:** [Eleanor O'Rourke](http://www.eleanorourke.com/), [eorourke@northwestern.edu](mailto:eorourke@northwestern.edu)
 - **Graduate Researcher:** Caryn Tran, [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu)
+- **Principal Investigator:** [Eleanor O'Rourke](http://www.eleanorourke.com/)
 
 ### Interested?
 
@@ -22,7 +22,7 @@ layout: study
 
 We will follow up with next steps shortly. If you have any questions, please email [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu). 
 
-**For teachers who are interested in having students do this survey as an in-class activity**, please send your students the interest and permission forms above and contact me via email so we can coordinate how to send out the survey. 
+**We are only accepting participants referred by a teacher in order to verify eligibility. You must provide the email of the referring teacher. Thank you.**, 
   
 ---
 
