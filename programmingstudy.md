@@ -20,7 +20,7 @@ layout: study
 
 We will follow up to invite you to the paid study if you are eligible. If you have any questions, please email [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu). 
 
-**We are only accepting participants referred by a teacher in order to verify eligibility. You must provide the email of the referring teacher. Thank you.**, 
+**We are only accepting participants referred by a teacher in order to verify eligibility. You must provide an official email of a referring teacher in order to be eligible. Thank you.**
   
 ---
 
