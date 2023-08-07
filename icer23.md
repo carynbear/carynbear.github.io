@@ -1,5 +1,5 @@
 ---
-layout: study
+layout: default
 ---
 
 ICER 2023
