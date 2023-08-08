@@ -23,14 +23,16 @@ I am interested in interfaces, programming languages, and learning environments 
 
 ## Education
 
-1. B.A. in CS at UC Berkeley
+1. Ph.D. student in Computer Science and Learning Sciences at Northwestern University  
 2. M.S. in EECS at UC Berkeley (AI Concentration)
+3. B.A. in CS at UC Berkeley
+
 
 ## Work Experience
 
 1. Adobe Intern and Software Engineer
 2. TeachFX Full-stack + ML Engineer
-3. Synapse School Middle School Computer Science Teacher
+3. [Synapse School Middle School Computer Science Teacher](/portfolio_synapse)
 
 ## University Teaching Experience
 1. [CS61AS Spring 2016](https://berkeley-cs61as.github.io/) TA/Instructor (Structure and Interpretation of Computer Programs)
