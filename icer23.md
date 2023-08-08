@@ -6,7 +6,7 @@ layout: default
 
 ## Poster
 
-<object data="/icer23_poster.pdf" type="application/pdf" width="100%" height="700px">
+<object data="/icer23_poster.pdf" type="application/pdf" width="100%" height="100%">
 <p>Unable to display PDF file. <a href="/icer23_poster.pdf">Download</a> instead.</p>
 </object>
 
