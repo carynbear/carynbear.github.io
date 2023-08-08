@@ -10,7 +10,7 @@ I joined Synapse midway through the 19-20 school year just one month before COVI
 
 Come March, I was abruptly thrust into the role of helping our school transition to distance learning alongside our leadership team. Thankfully, I had plenty of experience with Zoom while working at TeachFX as an engineer. To kickstart our whirlwind of switching to online learning, I onboarded all our staff onto Zoom and gave Zoom workshops to our teachers. For the rest of the school year, I continued to hold tech office hours to support our teachers with distance learning tools. 
 
-Meanwhile, in my classroom, we fumbled a few times but made it through in the end. 
+Meanwhile, in my classroom, we fumbled a few times but made it through in the end. There was a week or two of adhoc lessons, one particularly fun lesson (at least for me) was on the topic of the [history of the internet](https://docs.google.com/presentation/d/1kDKlHcvJxuNZ1F1M6zC23e9knNNWslvT53JMZaif5ms/edit?usp=sharing) where we got to use some old terminal-based emulators to access the internet. 
 
 Tools I used: 
 - CodeHS, Tynker
@@ -20,7 +20,7 @@ Tools I used:
 - Schoology
 
 Curriculum / Lessons:
-- History of computers
+- History of the internet and computers
 - Functional programming
 - Parsing and calculators
 
