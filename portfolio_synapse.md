@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+# _Page in construction!_
 # Highlights of being a middle school Computer Science teacher!
 Important caveat, I learned on the job and had no real training to be a middle school teacher aside from my degree in CS and having taught university level courses at Berkeley. It was a humbling experience and by far the most difficult job I've ever had!
 
