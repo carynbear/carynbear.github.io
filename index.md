@@ -43,4 +43,4 @@ I am interested in interfaces, programming languages, and learning environments 
 ## Thoughts
 On creativity: Why do I create? Sometimes fiction is closer to the truth than fact. 
 
-On learning: We learn when we feel. (and what makes us feel varies so much. It could be money, or friendship, or community, or recognition, or trauma. 
+On learning: We learn when we feel. (and what makes us feel varies so much.) It could be money, or friendship, or community, or recognition, or truth, or beauty, or trauma. 
