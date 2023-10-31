@@ -39,3 +39,6 @@ I am interested in interfaces, programming languages, and learning environments 
 2. [CS188 Fall 2016](https://edge.edx.org/courses/course-v1:BerkeleyX+CS188x-FA16+FA16/20021a0a32d14a31b087db8d4bb582fd/) TA (Artificial Intelligence)
 3. [CS188 Fall 2017](https://edge.edx.org/courses/course-v1:Berkeley+CS188+2017_FA17/20021a0a32d14a31b087db8d4bb582fd/) TA (Artificial Intelligence)
 4. [CS188 Summer 2019](https://inst.eecs.berkeley.edu/~cs188/su19/staff/) Head TA (Artificial Intelligence)
+
+## Thoughts
+On creativity: Why do I create? Sometimes fiction is closer to the truth than fact. 
