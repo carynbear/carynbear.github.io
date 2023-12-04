@@ -16,10 +16,10 @@ I am interested in interfaces, programming languages, and learning environments 
 
 ## Publications/Posters
 
-1. _NeurIPS paper in review_
+1. Logan Mondal Bhamidipaty*, Tommy Bruzzese*, **Caryn Tran***, Rami Ratl Mrad, and Max Kanwal. “DynaDojo: An Extensible Platform for Benchmarking Sample Efficiency in Dynamical System Identification”. Advances in Neural Information Processing Systems. 2023. Web <https://openreview.net/forum?id=pTSNoBTk8E> _*equal contribution_
 2. **Caryn Tran** and Eleanor O’Rourke. 2023. Understanding novices’ perceptions of “authentic” programming. In Proceedings of the 2023 ACM Conference on International Computing Education Research V.2 (ICER ’23 V2), August 7–11, 2023, Chicago, IL, USA. ACM, New York, NY, USA, 2 pages. https://doi.org/10.1145/3568812.3603492. [Poster](/icer23)
-3. Anant Sahai, Joshua Sanz, Vignesh Subramanian, **Caryn Tran**, and Kailas Vodrahalli. “Blind Interactive Learning of Modulation Schemes: Multi-Agent Cooperation Without Co-Design”. IEEE Access PP. doi: 10.1109/ACCESS.2020.2984218 (Mar. 2020): 1–1. [Web.](https: //ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050734)
-4. A. Sahai, J. Sanz, V. Subramanian, **C. Tran** and K. Vodrahalli, "Learning to Communicate with Limited Co-design," 2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2019, pp. 184-191, doi: 10.1109/ALLERTON.2019.8919749.
+3. Anant Sahai, Joshua Sanz, Vignesh Subramanian, **Caryn Tran**, and Kailas Vodrahalli. “Blind Interactive Learning of Modulation Schemes: Multi-Agent Cooperation Without Co-Design”. IEEE Access PP. doi: 10.1109/ACCESS.2020.2984218 (Mar. 2020): 1–1. [Web.](https: //ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9050734) _all authors made equal contributions._
+4. A. Sahai, J. Sanz, V. Subramanian, **C. Tran** and K. Vodrahalli, "Learning to Communicate with Limited Co-design," 2019 57th Annual Allerton Conference on Communication, Control, and Computing (Allerton), Monticello, IL, USA, 2019, pp. 184-191, doi: 10.1109/ALLERTON.2019.8919749. _all authors made equal contributions._
 
 ## Education
 
