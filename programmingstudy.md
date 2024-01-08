@@ -14,9 +14,10 @@ layout: study
 - **Principal Investigator:** [Eleanor O'Rourke](http://www.eleanorourke.com/)
 
 ### Interested?
-| Interested participant: | (If under 18) Guardian of participant: |
-|:---:|:---:|
-| <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14" class="btn btn-primary">Fill out Screening Form</a> |<a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG" class="btn btn-secondary">Fill out Parent Permission Form</a> |
+
+ <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_3WwnEUbQZU9Fv14" class="btn btn-primary">Fill out Screening Form</a> 
+ 
+ <a href="https://northwestern.az1.qualtrics.com/jfe/form/SV_74lL0WpsWhdQTEG" class="btn btn-secondary">Fill out Parent Permission Form</a>
 
 We will follow up to invite you to the paid study if you are eligible. If you have any questions, please email [caryn@u.northwestern.edu](mailto:caryn@u.northwestern.edu). 
 
