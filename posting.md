@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ### Research Intern
 
 **Company Name**: Wu Tsai Neurosciences Institute, Delta Lab
