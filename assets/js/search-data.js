@@ -11,21 +11,21 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A concise archive of my active and completed research agendas.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-publications",
           title: "publications",
-          description: "publications, poster, and reports.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching experiences from Berkeley, Northwestern, and Synapse School.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -39,7 +39,7 @@ ninja.data = [{
           },
         },{id: "nav-contact",
           title: "contact",
-          description: "The easiest ways to reach me.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/contact/";
