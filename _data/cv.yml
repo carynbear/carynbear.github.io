@@ -1,0 +1,247 @@
+cv:
+  name: Caryn Thiên Ngân Tran
+  label: Computer Science and Learning Sciences PhD Student at Northwestern University
+  email: caryn@u.northwestern.edu
+  location: Evanston, IL
+  summary: >
+    I am an interdisciplinary scholar in the joint Computer Science and Learning Sciences Ph.D. program at Northwestern University. My research bridges AI, HCI, and K-12 CS education to explore authentic learning experiences in the age of AI. I conduct research at Delta Lab and the Center for HCI+Design at Northwestern University, and hold a B.A. and M.S. from UC Berkeley, where I specialized in AI and education.
+
+  sections:
+    Education:
+      - institution: Northwestern University
+        location: Evanston, IL
+        area: Computer Science and Learning Sciences
+        studyType: Ph.D.
+        start_date: 2022-09-01
+        end_date: Present
+        highlights:
+          - Human-Computer Interaction and K-12 CS Education
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA
+        area: Electrical Engineering and Computer Science
+        studyType: M.S.
+        start_date: 2018-08-01
+        end_date: 2019-08-01
+        highlights:
+          - Applied Artificial Intelligence
+          - Minor in Education
+
+      - institution: University of California, Berkeley
+        location: Berkeley, CA
+        area: Computer Science
+        studyType: B.A.
+        start_date: 2014-01-01
+        end_date: 2017-12-01
+
+    Publications: []
+
+    Posters and Reports: []
+
+    Awards:
+      - title: Design Cluster Fellowship
+        awarder: Center for HCI+Design at Northwestern University
+        date: 2023-2024
+
+    Experience:
+      - company: Delta Lab, Northwestern University
+        position: Graduate Researcher
+        location: Evanston, IL
+        start_date: 2022-09-01
+        end_date: Present
+        summary: Lead investigation of perceptions of authenticity in K-12 CS education and programming tools in high school classrooms.
+        highlights:
+          - Designed and validated a survey instrument.
+          - Conducted interface probes and interviews; presented at ICER 2023.
+          - Conducting grounded theory and large-scale survey studies.
+          - Leading participatory design workshops with students and teachers.
+          - Additionally coded and analyzed math game interaction videos and CS office hour interview transcripts.
+
+      - company: Intrinsic, an Alphabet Company & OpenCV
+        position: PhD Intern
+        location: Mountain View, CA
+        start_date: 2024-06-01
+        end_date: 2025-01-01
+        summary: Conducted benchmarking research for industrial robotics vision systems.
+        highlights:
+          - Released an open-source toolkit for evaluating 6D pose estimation against robotic displacements.
+          - Contributed to the Perception Challenge for Bin-Picking with data preparation, evaluation pipeline, data standardization, and research toolkits.
+
+      - company: Northwestern University
+        position: Graduate Teaching Assistant
+        location: Evanston, IL
+        start_date: 2023-09-01
+        end_date: 2023-12-01
+        summary: Co-created and taught a seminar on transformative generative AI cross-listed in Computer Science and Learning Sciences.
+        highlights:
+          - Supported weekly discussions and helped design the reading list.
+          - Guided synthesis across ML, ethics, theory, and education.
+
+      - company: Synapse School
+        position: Middle School Computer Science Teacher
+        location: Menlo Park, CA
+        start_date: 2020-01-01
+        end_date: 2022-07-01
+        summary: Designed and taught project-based CS curriculum for grades 5-8.
+        highlights:
+          - Taught 8 sections of mixed-grade computer science courses twice a week, plus electives in literature and STEM.
+          - Created units on functional programming, procedural programming, storytelling, accessible game design, computational art, AI and bias, computational geometry, computational music, robotics, and mechanisms.
+          - Created websites for student work with PhaserJS and NextJS and designed a 2D RPG-style world for online open house during Covid-19.
+          - Supported school IT, investigated a security breach, and built internal tools for teacher reports and attendance.
+
+      - company: TeachFX
+        position: Full-stack & ML Engineer
+        location: Menlo Park, CA
+        start_date: 2019-09-01
+        end_date: 2021-02-01
+        summary: Built products and machine learning systems for an education technology setting.
+        highlights:
+          - Full-stack development in React, NodeJS, Django, and GraphQL.
+          - Built the Equity Tracker feature for analyzing real-time student participation data.
+          - Led Microsoft Teams integration using C#/.NET and bot development.
+          - Modularized the ML pipeline for speaker diarization with Kubernetes and Airflow.
+
+      - company: Berkeley Wireless Research Center
+        position: Graduate Researcher
+        location: Berkeley, CA
+        start_date: 2017-12-01
+        end_date: 2019-08-01
+        summary: Conducted research at the intersection of reinforcement learning and wireless communications.
+        highlights:
+          - Developed multi-agent protocols for learning wireless communication modulation.
+          - Implemented and compared polynomial versus neural-network agents.
+          - Ported the system to PyTorch and deployed experiments in Google Cloud.
+
+      - company: University of California, Berkeley
+        position: Teaching Assistant for CS188
+        location: Berkeley, CA
+        start_date: 2017-08-01
+        end_date: 2019-08-01
+        summary: TA and head TA for Berkeley's Introduction to Artificial Intelligence course.
+        highlights:
+          - Prepared slides, notes, problem sets, programming assignments, and exams.
+          - Led discussions, review sessions, and 1:1 office hours weekly.
+          - Undergraduate TA for 2 semesters and Head Graduate TA for 1 semester.
+
+      - company: Adobe
+        position: Software Engineer
+        location: San Francisco, CA
+        start_date: 2017-11-01
+        end_date: 2018-08-01
+        summary: Worked on product and engineering problems in a large-scale software environment.
+        highlights:
+          - Front-end React engineering for Adobe PhoneGap guided by Spectrum.
+          - Developed authentication tooling for Adobe OAuth across product suites.
+          - Taught weekly introductory machine learning workshops to engineers using University of Washington curriculum.
+
+      - company: Berkeley Institute for Data Science URAP
+        position: Undergraduate Researcher
+        location: Berkeley, CA
+        start_date: 2016-09-01
+        end_date: 2016-12-01
+        summary: Researched AR and ML applications for mobile retail.
+        highlights:
+          - Built an Android AR app using Vuforia to identify marijuana brands through image recognition.
+
+      - company: Adobe
+        position: Computer Scientist Intern
+        location: San Francisco, CA
+        start_date: 2016-05-01
+        end_date: 2016-08-01
+        summary: Contributed to Apache Cordova and Adobe PhoneGap.
+        highlights:
+          - Contributed fixes, tests, and features to Cordova and published resulting packages to NPM.
+          - Earned committership to the Apache Cordova open-source project.
+          - Architected and completed an extensive refactor to decouple version dependency.
+
+      - company: Bio-Nanosensor Interface URAP
+        position: Undergraduate Researcher
+        location: Berkeley, CA
+        start_date: 2015-11-01
+        end_date: 2016-08-01
+        summary: Developed tools and models for sensor signal visualization and classification.
+        highlights:
+          - Developed a Java Swing GUI for real-time sensor data.
+          - Applied k-means and SVM for sensor signal classification.
+
+      - company: University of California, Berkeley
+        position: Student Instructor for CS61AS
+        location: Berkeley, CA
+        start_date: 2016-01-01
+        end_date: 2016-05-01
+        summary: Responsible for course logistics, grading, teaching, creating labs, and leading office hours.
+        highlights:
+          - Managed class logistics, course website, and grading.
+          - Held mini-lectures and office hours and wrote tests and labs.
+
+    Volunteer:
+      - company: Vietnamese Association of Illinois
+        position: Volunteer ESL Instructor
+        location: Chicago, IL
+        start_date: 2023-04-01
+        end_date: 2023-08-01
+        summary: Taught English as a Second Language for the citizenship test to Vietnamese immigrants in the Chicago area.
+
+      - company: Berkeley Student Cooperatives
+        position: Nonprofit Board Director
+        location: Berkeley, CA
+        start_date: 2019-01-01
+        end_date: 2019-06-01
+        summary: Served on the board of a nonprofit student housing cooperative serving over 1,300 members.
+        highlights:
+          - Helped support democratically run, affordable housing near UC Berkeley.
+
+    Skills:
+      - name: Machine Learning
+        # level: Expert
+        icon: fa-solid fa-brain
+        keywords:
+          - TensorFlow/Keras
+          - PyTorch
+          - Kubernetes
+          - Airflow
+          - Pandas
+
+      - name: Back-end and Cloud
+        # level: Expert
+        icon: fa-solid fa-server
+        keywords:
+          - Django
+          - SQL
+          - Google Cloud Platform
+          - Azure Cloud
+          - SLURM workload orchestration
+
+      - name: Front-end
+        # level: Expert
+        icon: fa-solid fa-code
+        keywords:
+          - React
+          - Android
+          - C#/.NET
+
+      - name: Programming Languages
+        # level: Expert
+        icon: fa-solid fa-terminal
+        keywords:
+          - Python
+          - C++
+          - Java
+          - JavaScript
+
+      - name: Research
+        # level: Expert
+        icon: fa-solid fa-microscope
+        keywords:
+          - Survey Development and Analysis
+          - Interviewing
+          - Qualitative Analysis
+          - Design Research
+
+    # Interests:
+    #   - name: Learning
+    #     icon: fa-solid fa-book
+    #     keywords:
+    #       - How people learn
+    #       - how machines learn
+    #       - and how those systems meet

@@ -1,0 +1,30 @@
+remote_theme: ankitsultana/researcher@gem
+
+title: Caryn Tran
+url: "https://caryntran.com"
+baseurl: "/"
+
+markdown: kramdown
+ins_logo: "./logo.png"
+nu_logo: "./northwestern.png"
+favicon_location: "./logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "page designer"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About Caryn"
+   link: "/"
+ - name: "CV"
+   link: "CV.pdf"
+ # - name: "Programming Study"
+ #   link: "/programmingstudy.html"
+ - name: "ICER 2023"
+   link: "/icer23"
