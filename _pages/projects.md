@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A concise archive of my active and completed research agendas.
+# description: A concise archive of my active and completed research agendas.
 nav: true
 nav_order: 2
 horizontal: false

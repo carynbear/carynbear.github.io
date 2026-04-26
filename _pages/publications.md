@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publications, poster, and reports.
+# description: publications, poster, and reports.
 nav: true
 nav_order: 2
 ---
