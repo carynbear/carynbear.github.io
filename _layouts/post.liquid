@@ -62,7 +62,7 @@ layout: default
   <article class="post-content">
     {% if page.toc and page.toc.beginning %}
       <div id="table-of-contents">
-        {% comment %} GitHub Pages does not support the `toc` Liquid tag. {% endcomment %}
+        {% toc %}
       </div>
       <hr>
     {% endif %}
