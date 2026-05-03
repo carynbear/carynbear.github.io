@@ -1,51 +1,61 @@
 {% if site.teachings %}
   <div class="courses">
-    {% assign courses_by_year = site.teachings | sort: 'year' | reverse | group_by: 'year' %}
-
-    {% for year_group in courses_by_year %}
-      <h2 class="year">{{ year_group.name }}</h2>
-      <div class="course-list">
-        {% assign year_courses = year_group.items | sort: 'term' %}
-        {% for course in year_courses %}
-          <div class="course-item">
-            <h3 class="course-title">
-              <a href="{{ course.url | relative_url }}">{{ course.title }}</a>
-            </h3>
-
-            <div class="course-meta">
-              {% if course.term %}
-                <span class="course-term">{{ course.term }}</span>
+    {% assign courses = site.teachings | sort: 'year' | reverse | sort: 'term' %}
+    <div class="course-list">
+      {% for course in courses %}
+        <div class="course-item">
+          <h3 class="course-title">
+            <a href="{{ course.url | relative_url }}">
+              {% if course.course_code %}
+                {{ course.course_code }}:
+              {% elsif course.code %}
+                {{ course.code }}:
               {% endif %}
+              {{ course.title }}
+            </a>
+          </h3>
 
-              {% if course.instructor %}
-                <span class="course-instructor">{{ course.instructor }}</span>
-              {% endif %}
-            </div>
-
-            {% if course.description %}
-              <div class="course-description">
-                {{ course.description | markdownify }}
-              </div>
+          <div class="course-meta">
+            {% if course.location %}
+              <span class="course-school">{{ course.location }}</span>
             {% endif %}
 
-            {% if course.links %}
-              <div class="course-links mt-2">
-                <small>
-                  {% for link in course.links %}
-                    {% if link.url contains '://' %}
-                      <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a>
-                    {% else %}
-                      <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
-                    {% endif %}
-                    {% unless forloop.last %} · {% endunless %}
-                  {% endfor %}
-                </small>
-              </div>
+            {% if course.year %}
+              <span class="course-year">{{ course.year }}</span>
+            {% endif %}
+
+            {% if course.term %}
+              <span class="course-term">{{ course.term }}</span>
             {% endif %}
           </div>
-        {% endfor %}
-      </div>
-    {% endfor %}
+
+          {% if course.position %}
+            <div class="course-position">{{ course.position }}</div>
+          {% endif %}
+
+          {% if course.description %}
+            <div class="course-description">
+              {{ course.description | markdownify }}
+            </div>
+          {% endif %}
+
+          {% if course.links %}
+            <div class="course-links mt-2">
+              <small>
+                {% for link in course.links %}
+                  {% if link.url contains '://' %}
+                    <a href="{{ link.url }}" target="_blank" rel="noopener noreferrer">{{ link.label }}</a>
+                  {% else %}
+                    <a href="{{ link.url | relative_url }}">{{ link.label }}</a>
+                  {% endif %}
+                  {% unless forloop.last %} · {% endunless %}
+                {% endfor %}
+              </small>
+            </div>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
   </div>
 {% else %}
   <p>No courses available yet.</p>

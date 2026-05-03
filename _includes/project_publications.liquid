@@ -1,0 +1,6 @@
+{% assign project_key = include.project_key | default: page.project_key %}
+{% if project_key %}
+  <div class="publications project-publications">
+    {% bibliography --group_by none --query @*[project={{ project_key }}]* --sort_by publication_sort --order descending %}
+  </div>
+{% endif %}

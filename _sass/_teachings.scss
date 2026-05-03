@@ -25,6 +25,8 @@
   padding: 15px;
   background-color: var(--global-bg-color);
   transition: transform 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
 
   &:hover {
     transform: translateY(-5px);
@@ -35,6 +37,13 @@
 .course-title {
   margin-top: 0;
   margin-bottom: 10px;
+  font-size: 1.25rem;
+  line-height: 1.2;
+  min-height: 3rem;
+
+  a {
+    display: block;
+  }
 }
 
 .course-meta {
@@ -43,14 +52,24 @@
   margin-bottom: 10px;
 }
 
+.course-year,
 .course-term,
+.course-session,
+.course-school,
 .course-instructor {
   margin-right: 15px;
+}
+
+.course-position {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin-bottom: 10px;
 }
 
 .course-description {
   font-size: 0.9rem;
   margin-bottom: 15px;
+  flex: 1 1 auto;
 
   p {
     margin-bottom: 0;

@@ -41,6 +41,14 @@
 
       .preview {
         display: inline-block;
+        max-width: 160px;
+        width: 100%;
+        height: auto;
+        object-fit: contain;
+        cursor: zoom-in;
+        border: 0;
+        padding: 0;
+        background: transparent;
       }
 
       .abbr {
@@ -48,16 +56,29 @@
 
         abbr {
           display: inline-block;
-          background-color: var(--global-theme-color);
           margin-bottom: 0.5rem;
-          color: var(--global-card-bg-color) !important;
+        }
 
-          a {
-            color: white;
+        .publication-type-paper {
+          background-color: #d9d9d9;
+          color: #000 !important;
+        }
 
-            &:hover {
-              text-decoration: none;
-            }
+        .publication-type-workshop {
+          background-color: #444;
+          color: #fff !important;
+        }
+
+        .publication-type-dark {
+          background-color: #000;
+          color: #fff !important;
+        }
+
+        a {
+          color: inherit;
+
+          &:hover {
+            text-decoration: none;
           }
         }
 
@@ -185,4 +206,60 @@
 .citation,
 .citation-number {
   color: var(--global-theme-color);
+}
+
+.publication-preview-modal {
+  position: fixed;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  z-index: 2000;
+
+  &.is-open {
+    display: flex;
+  }
+}
+
+.publication-preview-modal__backdrop {
+  position: absolute;
+  inset: 0;
+  border: 0;
+  padding: 0;
+  background: rgba(0, 0, 0, 0.74);
+}
+
+.publication-preview-modal__dialog {
+  position: relative;
+  z-index: 1;
+  max-width: 92vw;
+  max-height: 92vh;
+}
+
+.publication-preview-modal__image {
+  display: block;
+  max-width: 92vw;
+  max-height: 92vh;
+  width: auto;
+  height: auto;
+  box-shadow: 0 24px 64px rgba(0, 0, 0, 0.4);
+}
+
+.publication-preview-modal__close {
+  position: absolute;
+  top: -0.75rem;
+  right: -0.75rem;
+  width: 2rem;
+  height: 2rem;
+  border: 0;
+  border-radius: 999px;
+  background: var(--global-card-bg-color);
+  color: var(--global-text-color);
+  font-size: 1.5rem;
+  line-height: 2rem;
+  cursor: pointer;
+}
+
+body.publication-preview-modal-open {
+  overflow: hidden;
 }
