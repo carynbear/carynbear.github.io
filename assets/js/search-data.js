@@ -73,54 +73,54 @@ ninja.data = [{
           section: "News",},{id: "news-received-a-best-paper-award-for-our-paper-at-chi-2026",
           title: 'Received a 🏆 Best Paper Award 🏆 for our paper at CHI 2026....',
           description: "",
-          section: "News",},{id: "projects-authentic-learning-for-computer-science",
-          title: 'Authentic Learning for Computer Science',
-          description: "What authentic learning is and how to design for it in K-12 CS education.",
+          section: "News",},{id: "projects-authenticity-in-k-12-computer-science",
+          title: 'Authenticity in K-12 Computer Science',
+          description: "Studying how students perceive authenticity in programming and how those perceptions shape learning.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-reinforcement-learning-for-wireless-communications",
-          title: 'Reinforcement Learning for Wireless Communications',
-          description: "Protocols for self-supervised agent-based reinforcement learning of modulation schemes.",
+            },},{id: "projects-learning-to-communicate-in-wireless-channels",
+          title: 'Learning to Communicate in Wireless Channels',
+          description: "Developing multi-agent protocols for modulation, cooperation, and communication without co-design.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-dynamical-systems-modelling",
-          title: 'Dynamical Systems Modelling',
-          description: "Understanding how to benchmark and evaluate machine learning models for dynamical systems modelling.",
+            },},{id: "projects-benchmarking-dynamical-system-models",
+          title: 'Benchmarking Dynamical System Models',
+          description: "Building tools to evaluate learning systems on dynamical prediction and identification tasks.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
             },},{id: "projects-constructive-ai-alignment",
           title: 'Constructive AI Alignment',
-          description: "An agenda for the coevolution of AI systems and people.",
+          description: "Developing a systems-level alignment agenda that treats humans and AI as co-adapting agents.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
-            },},{id: "teachings-cs188",
-          title: 'CS188',
-          description: "TA experience for Berkeley&#39;s Introduction to Artificial Intelligence course.",
+            },},{id: "teachings-introduction-to-artificial-intelligence",
+          title: 'Introduction to Artificial Intelligence',
+          description: "Berkeley&#39;s introductory AI course covers search, knowledge representation, planning, reinforcement learning, and machine learning.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/data-science-fundamentals/";
-            },},{id: "teachings-cs188",
-          title: 'CS188',
-          description: "Head TA experience for Berkeley&#39;s Introduction to Artificial Intelligence course.",
+              window.location.href = "/teachings/2016-uc-berkeley-cs188/";
+            },},{id: "teachings-structure-and-interpretation-of-comp-progrms",
+          title: 'Structure and Interpretation of Comp Progrms',
+          description: "Berkeley&#39;s introductory CS1 course for majors covered functional programming, object-oriented programming, SQL/declarative programming and interpreters using Scheme and Python. This version is no longer offered.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/fourth-teaching/";
-            },},{id: "teachings-cs61as",
-          title: 'CS61AS',
-          description: "TA / instructor experience for Berkeley&#39;s Structure and Interpretation of Computer Programs course.",
+              window.location.href = "/teachings/2016-uc-berkeley-cs61as/";
+            },},{id: "teachings-introduction-to-artificial-intelligence",
+          title: 'Introduction to Artificial Intelligence',
+          description: "Berkeley&#39;s introductory AI course covers search, knowledge representation, planning, reinforcement learning, and machine learning.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/introduction-to-machine-learning/";
-            },},{id: "teachings-synapse-school",
-          title: 'Synapse School',
-          description: "Middle school computer science teaching experience at Synapse School.",
+              window.location.href = "/teachings/2017-uc-berkeley-cs188/";
+            },},{id: "teachings-introduction-to-artificial-intelligence",
+          title: 'Introduction to Artificial Intelligence',
+          description: "Berkeley&#39;s introductory AI course covers search, knowledge representation, planning, reinforcement learning, and machine learning.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/synapse-school/";
+              window.location.href = "/teachings/2019-uc-berkeley-cs188/";
+            },},{id: "teachings-middle-school-computer-science",
+          title: 'Middle School Computer Science',
+          description: "Designed and taught project-based middle school curriculum focused on creativity, confidence, and computational thinking.",
+          section: "Teachings",handler: () => {
+              window.location.href = "/teachings/2020-menlo-park-synapse-school/";
             },},{id: "teachings-ls-451-cs-496-transformative-ai-and-the-learning-sciences",
           title: 'LS 451 / CS 496: Transformative AI and the Learning Sciences',
-          description: "Graduate teaching assistant experience for Northwestern&#39;s Fall 2024 TAILS seminar.",
+          description: "Co-designed a graduate seminar on how modern AI systems reshape learning sciences research, classroom practice, and learner experience.",
           section: "Teachings",handler: () => {
-              window.location.href = "/teachings/tails/";
-            },},{id: "teachings-cs188",
-          title: 'CS188',
-          description: "TA experience for Berkeley&#39;s Introduction to Artificial Intelligence course.",
-          section: "Teachings",handler: () => {
-              window.location.href = "/teachings/third-teaching/";
+              window.location.href = "/teachings/2024-northwestern-tails/";
             },},];
